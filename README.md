@@ -1,9 +1,9 @@
 <a href="https://twitter.com/sergiorozada_12" target="_blank" rel="nofollow">
-  <img align="right" alt="Twitter" width="30px" src="https://image.flaticon.com/icons/png/512/733/733579.png" /></a>
+  <img align="right" alt="Twitter" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" /></a>
 <a href="https://www.linkedin.com/in/sergio-rozada-doval" target="_blank" rel="nofollow">
-  <img align="right" alt="LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
+  <img align="right" alt="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" /></a>
 <a href="https://scholar.google.es/citations?user=MFQxsqYAAAAJ&hl=es" target="_blank" rel="nofollow">
-  <img align="right" alt="Personal Website" width="30px" src="https://www.kindpng.com/picc/m/369-3690860_google-scholar-icon-google-scholar-logo-hd-png.png" /></a>
+  <img align="right" alt="Personal Website" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1024px-Google_Scholar_logo.svg.png" /></a>
  
 # Hello world, this is Sergio!
 
