@@ -15,7 +15,7 @@
 
 ### Currently, I'm a ...
 
-- 🔭 Data Scientist @ Seedtag.
+- 🔭 ML Engineer @ Meta.
 - 🎓 PhD student in Reinforcement Learning @ King Juan Carlos University.
 
 ### Tools
