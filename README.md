@@ -9,13 +9,12 @@
 
 ### I'm into
 
-- 🌐 NLP and computer vision for understanding web content.
-- 💾 Building awesome data products!
+- 🌐 Learning from data in dynamical systems.
+- 💾 Building data products.
 - 👾 Machine Learning in general, Reinforcement Learning in particular.
 
 ### Currently, I'm a ...
 
-- 🔭 ML Engineer @ Meta.
 - 🎓 PhD student in Reinforcement Learning @ King Juan Carlos University.
 
 ### Tools
